@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\beniamin.badura.ext\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\beniamin.badura.ext\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
